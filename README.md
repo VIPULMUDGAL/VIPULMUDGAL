@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VIPULMUDGAL
 - 👀 I’m interested in $ \begin {bmatrix} Machine \\ Learning \end {bmatrix} $
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on ... 
 - [CLick here to reach my Instagram](https://www.instagram.com/vipul_mudgal/)
 - [CLick here to reach my LinkedIn](https://www.linkedin.com/in/vipul-mudgal1082/)         
 
