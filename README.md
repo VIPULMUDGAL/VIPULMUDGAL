@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VIPULMUDGAL
-- 👀 I’m interested in $ \begin {bmatrix} Machine \\ Learning \end $ Machine Learning
+- 👀 I’m interested in $ \begin {bmatrix} Machine \\ Learning \end {bmatrix} $
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me $7458961319$
